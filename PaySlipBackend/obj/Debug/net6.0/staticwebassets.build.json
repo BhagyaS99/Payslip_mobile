@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "9qLl+UOjpbcQ1DWxaDRNSWOtmbXa7LHzPietAdzTikU=",
+  "Source": "PaySlipBackend",
+  "BasePath": "_content/PaySlipBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PaySlipBackend\\wwwroot",
+      "Source": "PaySlipBackend",
+      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\PaySlipBackend\\PaySlipBackend\\wwwroot\\",
+      "BasePath": "_content/PaySlipBackend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Admin\\source\\repos\\PaySlipBackend\\PaySlipBackend\\wwwroot\\Images\\IMfooter.png",
+      "SourceId": "PaySlipBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\PaySlipBackend\\PaySlipBackend\\wwwroot\\",
+      "BasePath": "_content/PaySlipBackend",
+      "RelativePath": "Images/IMfooter.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\IMfooter.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\source\\repos\\PaySlipBackend\\PaySlipBackend\\wwwroot\\Images\\IMheader.png",
+      "SourceId": "PaySlipBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\PaySlipBackend\\PaySlipBackend\\wwwroot\\",
+      "BasePath": "_content/PaySlipBackend",
+      "RelativePath": "Images/IMheader.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\IMheader.png"
+    }
+  ]
+}

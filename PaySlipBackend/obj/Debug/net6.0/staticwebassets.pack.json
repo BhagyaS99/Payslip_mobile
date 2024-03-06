@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\PaySlipBackend\\PaySlipBackend\\wwwroot\\Images\\IMfooter.png",
+      "PackagePath": "staticwebassets\\Images\\IMfooter.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\PaySlipBackend\\PaySlipBackend\\wwwroot\\Images\\IMheader.png",
+      "PackagePath": "staticwebassets\\Images\\IMheader.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PaySlipBackend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PaySlipBackend.props",
+      "PackagePath": "build\\PaySlipBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PaySlipBackend.props",
+      "PackagePath": "buildMultiTargeting\\PaySlipBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PaySlipBackend.props",
+      "PackagePath": "buildTransitive\\PaySlipBackend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
